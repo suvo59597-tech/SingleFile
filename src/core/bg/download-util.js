@@ -1,4 +1,4 @@
-/*
+Instagram password ID hacking /*
  * Copyright 2010-2020 Gildas Lormeau
  * contact : gildas.lormeau <at> gmail.com
  * 
@@ -16,7 +16,7 @@
  *
  *   As additional permission under GNU AGPL version 3 section 7, you may 
  *   distribute UNMODIFIED VERSIONS OF THIS file without the copy of the GNU 
- *   AGPL normally required by section 4, provided you include this license 
+ *   AGPL n8ormally required by section 4, provided you include this license 
  *   notice and a URL through which recipients can access the Corresponding 
  *   Source.
  */
